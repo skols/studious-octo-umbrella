@@ -1,4 +1,0 @@
-solar
-buns
-lunar
-alien
